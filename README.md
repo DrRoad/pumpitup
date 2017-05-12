@@ -22,7 +22,7 @@ Data can be obtained from the competition site by registering and downloading th
 ## Methods
 
 * basic exploration methods
-* Random Forest
+* [Random Forest](random_forest.md)
 * DBSCAN
 
 ## Workflow
