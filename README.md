@@ -41,7 +41,12 @@ This question is provided by the competition.
 
 ### 3. Explore the Data
 
+* [Jupyter notebook: Explore the data](pumpitup_explore.ipynb)
+
 ### 4. Model the data
+
+* [Jupyter notebook: Preprocess the data](pumpitup_preprocess.ipynb)
+* [Jupyter notebook: Mode the data](pumpitup_model.ipynb
 
 ### 5. Communicate the data
 
