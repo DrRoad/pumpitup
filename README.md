@@ -37,7 +37,7 @@ This question is provided by the competition.
 
 ### 2. Get the Data
 
-* Jupyter notebook: Get the data
+* [Jupyter notebook: Get the data](pumpitup_getdata.ipynb)
 
 ### 3. Explore the Data
 
