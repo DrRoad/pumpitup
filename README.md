@@ -45,7 +45,8 @@ This question is provided by the competition.
 
 ### 4. Model the data
 
-* [Jupyter notebook: Preprocess the data](pumpitup_preprocess.ipynb)
+* [Jupyter notebook: Preprocess the data I: Get missing gps_height values](pumpitup_missing_gps_height.ipynb)
+* [Jupyter notebook: Preprocess the data II: Process variables](pumpitup_preprocess.ipynb)
 * [Jupyter notebook: Model the data](pumpitup_model.ipynb)
 
 ### 5. Communicate the data
