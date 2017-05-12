@@ -41,6 +41,8 @@ This question is provided by the competition.
 
 ### 3. Explore the Data
 
+* [Jupyter notebook: Explore the data](pumpitup_explore.ipynb)
+
 ### 4. Model the data
 
 ### 5. Communicate the data
