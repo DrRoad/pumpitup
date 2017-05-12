@@ -47,13 +47,6 @@ This question is provided by the competition.
 
 ### 6. Implementation
 
-Skills: product management, communication, IO psychology, CS, politics.
-Stage 6 is hugely important. Data Scientists who don’t carry their work all the way through to realize it’s full impact are ultimately just ineffective consultants.
-You probably can’t implement it on your own. But that doesn’t mean it isn’t your job to communicate, collaborate, and convince until it is implemented. Champion your work—no one else knows how.
-Please see Eric Colson’s comment to this answer.
-Stage 7: Test and quantify your impact
-
-Skills: all of the above.
-Did Stage 6 work? Was this project worthwhile? This is not a subjective question. Who better to answer this question than you?
+### 7. Test and quantify your impact
 
 ## Results
