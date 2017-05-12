@@ -46,7 +46,7 @@ This question is provided by the competition.
 ### 4. Model the data
 
 * [Jupyter notebook: Preprocess the data](pumpitup_preprocess.ipynb)
-* [Jupyter notebook: Mode the data](pumpitup_model.ipynb)
+* [Jupyter notebook: Model the data](pumpitup_model.ipynb)
 
 ### 5. Communicate the data
 
