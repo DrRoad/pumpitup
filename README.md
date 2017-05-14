@@ -12,7 +12,7 @@ The [Driven Data competition](https://www.drivendata.org/competitions/7/pump-it-
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Flickr_-_usaid.africa_-_Water_pump_provided_by_USAID.jpg" width="500"/><br>
-  <a href="https://commons.wikimedia.org/wiki/File:Flickr_-_usaid.africa_-_Water_pump_provided_by_USAID.jpg">Wikimedia Commons</a>
+  Picture: <a href="https://commons.wikimedia.org/wiki/File:Flickr_-_usaid.africa_-_Water_pump_provided_by_USAID.jpg">Wikimedia Commons</a>
 </p>
 
 ## The data
@@ -52,6 +52,7 @@ This question is provided by the competition.
 
 * [Jupyter notebook: Preprocess the data I: Get missing gps_height values](pumpitup_missing_gps_height.ipynb)
 * [Jupyter notebook: Preprocess the data II: Process variables](pumpitup_preprocess.ipynb)
+* [Jupyter notebook: Modet the data I: Optimize metaparameters](pumpitip_model_metaparameters.ipynb)
 * [Jupyter notebook: Model the data](pumpitup_model.ipynb)
 
 ### 5. Communicate the data
