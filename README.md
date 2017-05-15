@@ -55,8 +55,11 @@ This question is provided by the competition.
 * [Jupyter notebook: Preprocess the data II: Process variables](pumpitup_preprocess.ipynb)
 * [Jupyter notebook: Modet the data I: Optimize metaparameters](pumpitup_model_metaparameters.ipynb)
 
-![](n_estimators.png)
-<p align="center">Optimizing max_features parameter, which is the number of features to consider when looking for the best split</p>
+
+<p align="center">
+  ![](n_estimators.png)
+  Optimizing max_features parameter, which is the number of features to consider when looking for the best split
+</p>
 
 * [Jupyter notebook: Model the data](pumpitup_model.ipynb)
 
