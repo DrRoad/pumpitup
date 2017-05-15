@@ -57,7 +57,7 @@ This question is provided by the competition.
 
 
 <p align="center">
-  ![](n_estimators.png)
+  <img src="n_estimators.png"   width="500"/><br>
   Optimizing max_features parameter, which is the number of features to consider when looking for the best split
 </p>
 
