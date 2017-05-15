@@ -57,7 +57,7 @@ This question is provided by the competition.
 
 
 <p align="center">
-  <img src="n_estimators.png"   width="500"/><br>
+  <img src="max_features.png"/><br>
   Optimizing max_features parameter, which is the number of features to consider when looking for the best split
 </p>
 
