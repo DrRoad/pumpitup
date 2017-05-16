@@ -53,6 +53,11 @@ This question is provided by the competition.
   * A basic starting point using R is presented in a tutorial by [DataCamp](https://www.datacamp.com/community/open-courses/drivendata-water-pumps-challenge#gs.UjARtQI)
   * The main problem with the data is missing values: 12 of the 40 variables have missing data, which needs to be dealt with. Exploration revealed some potential ways to do imputation.
   * Categorical values need to be converted numerical. Numerical values might need to be normalized.
+  
+<p align="center">
+  <img src="status_group_map.png"/><br>
+  Plotting 2000 pumps each by status_group
+</p>
 
 ### 4. Model the data
 
