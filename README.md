@@ -29,7 +29,9 @@ Data can be obtained from the competition site by registering and downloading th
 
 * basic exploration methods
 * [Random Forest](random_forest.md)
-* DBSCAN
+* [Density-based spatial clustering of applications with noise (DBSCAN)](https://en.wikipedia.org/wiki/DBSCAN)
+  * Ester, M., Kriegel, H., Sander, J. & Xu, X. (1996). [A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)
+  * scikit-learn: [sklearn.cluster.DBSCAN](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)
 
 ## Workflow
 
@@ -48,10 +50,14 @@ This question is provided by the competition.
 ### 3. Explore the Data
 
 * [Jupyter notebook: Explore the data](pumpitup_explore.ipynb)
+  * A basic starting point using R is presented in a tutorial by [DataCamp](https://www.datacamp.com/community/open-courses/drivendata-water-pumps-challenge#gs.UjARtQI)
+  * The main problem with the data is missing values: 12 of the 40 variables have missing data, which needs to be dealt with. Exploration revealed some potential ways to do imputation.
+  * Categorical values need to be converted numerical. Numerical values might need to be normalized.
 
 ### 4. Model the data
 
 * [Jupyter notebook: Preprocess the data I: Get missing gps_height values](pumpitup_missing_gps_height.ipynb)
+  * Using [geocoder](http://geocoder.readthedocs.io/) library to obtain missing gps_height values
 * [Jupyter notebook: Preprocess the data II: Process variables](pumpitup_preprocess.ipynb)
 * [Jupyter notebook: Modet the data I: Optimize metaparameters](pumpitup_model_metaparameters.ipynb)
 
