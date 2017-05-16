@@ -23,7 +23,7 @@ Data can be obtained from the competition site by registering and downloading th
 ## Tools
 
 * [Anaconda](https://www.continuum.io/) + [Jupyter](http://jupyter.org/)
-* [Numpy](http://www.numpy.org/) Stack, pandas, [scikit-learn](http://scikit-learn.org/stable/)
+* [Numpy](http://www.numpy.org/) Stack, [pandas](http://pandas.pydata.org/), [scikit-learn](http://scikit-learn.org/stable/)
 
 ## Methods
 
@@ -59,20 +59,20 @@ This question is provided by the competition.
 * [Jupyter notebook: Preprocess the data I: Get missing gps_height values](pumpitup_missing_gps_height.ipynb)
   * Using [geocoder](http://geocoder.readthedocs.io/) library to obtain missing gps_height values
 * [Jupyter notebook: Preprocess the data II: Process variables](pumpitup_preprocess.ipynb)
-* [Jupyter notebook: Modet the data I: Optimize metaparameters](pumpitup_model_metaparameters.ipynb)
-
+  * Combine train and test sets to do processing for the whole data, combine train set and train labels
+  * Drop, round, combine to larger bins, normalize, [one-hot encode](https://www.quora.com/What-is-one-hot-encoding-and-when-is-it-used-in-data-science)
+  * Make a new variable by clustering latitude and longitude with DBSCAN
+* [Jupyter notebook: Model the data I: Optimize metaparameters](pumpitup_model_metaparameters.ipynb)
+  * Excluding few redundant variables
+  * Estimating optimal max_features parameter
 
 <p align="center">
   <img src="max_features.png"/><br>
   Optimizing max_features parameter, which is the number of features to consider when looking for the best split
 </p>
 
-* [Jupyter notebook: Model the data](pumpitup_model.ipynb)
-
-### 5. Communicate the data
-
-### 6. Implementation
-
-### 7. Test and quantify your impact
+* [Jupyter notebook: Model the data II: Making prediction](pumpitup_model.ipynb)
 
 ## Results
+
+Best version of this model scored 0.8239 in the competition.
