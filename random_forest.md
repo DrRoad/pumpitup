@@ -3,7 +3,7 @@
 * Ensemble method for classification and regression
 * Forest = collection of multiple decision trees
 * Random = decision trees are generated using random subset of data
-..* bootstrapping: tree has unique set of data = random subset of the original data with replacement
+  * bootstrapping: tree has unique set of data = random subset of the original data with replacement
 * Resul is the mode (in classification) or mean (in regression) of the individual trees
 * 
 
