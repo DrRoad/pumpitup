@@ -4,8 +4,10 @@
 * Forest = collection of multiple decision trees
 * Random = decision trees are generated using random subset of data
   * bootstrapping: tree has unique set of data = random subset of the original data with replacement
+  * split: gini, entropy
 * Resul is the mode (in classification) or mean (in regression) of the individual trees
-* 
+* [Out of Bag (OOB) error](https://en.wikipedia.org/wiki/Out-of-bag_error)
+* Feature Importances
 
 ## Python and scikit-learn
 
