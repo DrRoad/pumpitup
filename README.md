@@ -24,6 +24,8 @@ Data can be obtained from the competition site by registering and downloading th
 
 * [Anaconda](https://www.continuum.io/) + [Jupyter](http://jupyter.org/)
 * [Numpy](http://www.numpy.org/) Stack, [pandas](http://pandas.pydata.org/), [scikit-learn](http://scikit-learn.org/stable/)
+* Amazon Web Services (AWS): some analysis was run in EC2 instance for increased speed compared to Macbook Pro
+* [Domino](https://www.dominodatalab.com/): Domino Datalab is described as a github for data science, some analysis was run under their free trial
 
 ## Methods
 
