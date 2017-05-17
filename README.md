@@ -73,10 +73,19 @@ This question is provided by the competition.
 
 <p align="center">
   <img src="max_features.png"/><br>
-  Optimizing max_features parameter, which is the number of features to consider when looking for the best split
+  Optimizing max_features parameter, which is the number of features to consider when looking for the best split. Best value seems to be 0.20 (20 %) of the features.
 </p>
 
-* [Jupyter notebook: Model the data II: Making prediction](pumpitup_model.ipynb)
+* [Jupyter notebook: Model the data II: Experimenting with feature selection](pumpitup_model_feature_selection.ipynb)
+  * Removing variables with low feature importances one by one
+  * Applying Principal Componen Analysis (PCA) before Random Forest
+  
+ <p align="center">
+  <img src="feature_selection.png"/><br>
+  Removing variables with low feature importances one by one and how it affects Out of Bag error
+</p>
+  
+* [Jupyter notebook: Model the data III: Making prediction](pumpitup_model.ipynb)
 
 ## Results
 
