@@ -79,6 +79,7 @@ This question is provided by the competition.
 * [Jupyter notebook: Model the data II: Experimenting with feature selection](pumpitup_model_feature_selection.ipynb)
   * Removing variables with low feature importances one by one
   * Applying Principal Componen Analysis (PCA) before Random Forest
+    * scikit-learn: [sklearn.decomposition.PCA](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
   
  <p align="center">
   <img src="feature_selection.png"/><br>
