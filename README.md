@@ -32,6 +32,8 @@ Data can be obtained from the competition site by registering and downloading th
 * [Density-based spatial clustering of applications with noise (DBSCAN)](https://en.wikipedia.org/wiki/DBSCAN)
   * Ester, M., Kriegel, H., Sander, J. & Xu, X. (1996). [A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)
   * scikit-learn: [sklearn.cluster.DBSCAN](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)
+* Principal Componen Analysis (PCA)
+  * scikit-learn: [sklearn.decomposition.PCA](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
 
 ## Workflow
 
@@ -78,8 +80,7 @@ This question is provided by the competition.
 
 * [Jupyter notebook: Model the data II: Experimenting with feature selection](pumpitup_model_feature_selection.ipynb)
   * Removing variables with low feature importances one by one
-  * Applying Principal Componen Analysis (PCA) before Random Forest
-    * scikit-learn: [sklearn.decomposition.PCA](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+  * Applying PCA before Random Forest
   
  <p align="center">
   <img src="feature_selection.png"/><br>
